@@ -61,6 +61,6 @@ public class JoinScanTest {
       System.out.println();
       records++;
     }
-    assertEquals(9, records);
+    assertEquals(8, records);
   }
 }
